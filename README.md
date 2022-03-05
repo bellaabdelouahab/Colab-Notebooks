@@ -1,4 +1,4 @@
 # Colab-Notebooks
 Awesome colab notebooks collection for ML experiments
 <br>
-<img width="600" height="350" style="margin-left:10vw" src="media.svg" alt="Awesome">
+<img width="600" height="350" style="margin-left:50vw" src="media.svg" alt="Awesome">
